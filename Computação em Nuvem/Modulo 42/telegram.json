@@ -1,0 +1,17 @@
+{
+    "update_id": 123,
+    "message": {
+        "message_id": 1,
+        "from": {
+            "id": 321,
+            "is_bot": false,
+            "first_name": "Andre"
+        },
+        "chat": {
+            "id": -789,
+            "type": "group"
+        },
+        "date": 1640995200,
+        "text": "Ola, mundo!"
+    }
+}
